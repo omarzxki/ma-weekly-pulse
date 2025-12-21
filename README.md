@@ -5,7 +5,7 @@
 
 ---
 
-## 📖 About This Project
+## About This Project
 
 *M&A Weekly Pulse* is a curated newsletter tracking the most important mergers and acquisitions, market trends, and valuation insights across global markets. It is designed to provide:
 
@@ -18,7 +18,7 @@ This project serves as both a **learning tool** and a **professional proof-of-wo
 
 ---
 
-## 🗂 Repo Structure
+## Repo Structure
 
 ```text
 ma-weekly-pulse/
